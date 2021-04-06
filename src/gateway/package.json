@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "queue-fifo": "^0.2.6",
+    "serialport": "^9.0.7"
+  }
+}
